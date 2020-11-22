@@ -1,0 +1,18 @@
+[
+    {
+      "name": "RK",
+      "value": 9
+    },
+    {
+        "name": "FF",
+        "value": 5
+      },
+      {
+        "name": "MV",
+        "value": 3
+      },
+      {
+        "name": "BV",
+        "value": 1
+      }
+]

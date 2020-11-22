@@ -1,0 +1,93 @@
+[
+  {
+    "roleID": "1",
+    "roleType": "Mitgliedschaften",
+    "roleName": "Aktiv",
+    "roleDescription": "Aktiv",
+    "organisationID": "1320",
+    "organisationName": "FF Eidenberg",
+    "organisationType": "FF",
+    "dateFrom": "2000-01-07",
+    "dateTo": null,
+    "iVolunteerSource": "LFV OÖ",
+    "personID": "5dc2a215399af"
+  },
+  {
+    "roleID": "2004",
+    "roleType": "Dienstgrade",
+    "roleName": "Probefeuerwehrmann",
+    "roleDescription": "Probefeuerwehrmann",
+    "organisationID": "1320",
+    "organisationName": "FF Eidenberg",
+    "organisationType": "FF",
+    "dateFrom": "2000-01-07",
+    "dateTo": "2001-01-02",
+    "iVolunteerSource": "LFV OÖ",
+    "personID": "5dc2a215399af"
+  },
+  {
+    "roleID": "2005",
+    "roleType": "Dienstgrade",
+    "roleName": "Feuerwehrmann",
+    "roleDescription": "Feuerwehrmann",
+    "organisationID": "1320",
+    "organisationName": "FF Eidenberg",
+    "organisationType": "FF",
+    "dateFrom": "2001-01-03",
+    "dateTo": "2003-01-02",
+    "iVolunteerSource": "LFV OÖ",
+    "personID": "5dc2a215399af"
+  },
+  {
+    "roleID": "2006",
+    "roleType": "Dienstgrade",
+    "roleName": "Oberfeuerwehrmann",
+    "roleDescription": "Oberfeuerwehrmann",
+    "organisationID": "1320",
+    "organisationName": "FF Eidenberg",
+    "organisationType": "FF",
+    "dateFrom": "2003-01-03",
+    "dateTo": "2003-04-02",
+    "iVolunteerSource": "LFV OÖ",
+    "personID": "5dc2a215399af"
+  },
+  {
+    "roleID": "2020",
+    "roleType": "Dienstgrade",
+    "roleName": "Brandinspektor",
+    "roleDescription": "Brandinspektor",
+    "organisationID": "1320",
+    "organisationName": "FF Eidenberg",
+    "organisationType": "FF",
+    "dateFrom": "2003-04-03",
+    "dateTo": "2008-03-25",
+    "iVolunteerSource": "LFV OÖ",
+    "personID": "5dc2a215399af"
+  },
+  {
+    "roleID": "2015",
+    "roleType": "Dienstgrade",
+    "roleName": "Oberamtswalter",
+    "roleDescription": "Oberamtswalter",
+    "organisationID": "156",
+    "organisationName": "AB Ottensheim",
+    "organisationType": "Abschnitt",
+    "dateFrom": "2004-04-26",
+    "dateTo": "2009-04-28",
+    "iVolunteerSource": "LFV OÖ",
+    "personID": "5dc2a215399af"
+  },
+  {
+    "roleID": "2024",
+    "roleType": "Dienstgrade",
+    "roleName": "Hauptbrandinspektor",
+    "roleDescription": "Hauptbrandinspektor",
+    "organisationID": "1320",
+    "organisationName": "FF Eidenberg",
+    "organisationType": "FF",
+    "dateFrom": "2008-03-26",
+    "dateTo": null,
+    "iVolunteerSource": "LFV OÖ",
+    "personID": "5dc2a215399af"
+  }
+]
